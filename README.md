@@ -2,6 +2,14 @@
 
 A desktop weather application built with Python and Tkinter.
 
+## Download
+
+You can download the ready-to-use Windows version here:
+
+[Download Weather App](./dist/main.exe)
+
+No Python installation is required to run the `.exe` file.
+
 ## Features
 
 * 🌤️ Current weather information
