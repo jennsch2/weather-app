@@ -3,6 +3,7 @@
 __pycache__/
 *.pyc
 build/
-dist/
+dist/*
+!dist/main.exe
 *.spec
 language.json
